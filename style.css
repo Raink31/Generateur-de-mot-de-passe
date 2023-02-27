@@ -56,7 +56,7 @@ span {
 .password{
     background-color: #3D3F51;
     height: 30px;
-    width: 100%;
+    width: 50%;
     border-radius: 5px;
     display: flex;
     align-items: center;

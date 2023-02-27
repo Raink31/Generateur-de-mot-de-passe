@@ -1,5 +1,4 @@
 let passwordOneEl = document.querySelector("#password1-el")
-let passwordTwoEl = document.querySelector("#password2-el")
 
 const characters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N",
 "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "a", "b", "c", "d", "e", "f", "g",
@@ -18,5 +17,4 @@ function generatePasswords() {
 
 function displayPasswords() {
     passwordOneEl.textContent = generatePasswords()
-    passwordTwoEl.textContent = generatePasswords()
 }
