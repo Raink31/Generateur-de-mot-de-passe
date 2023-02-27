@@ -1,7 +1,7 @@
 # Générateur de mot de passe
 
 ### Screenshot
-![screenshot](desktop.png)
+![screenshot](desktop2.png)
 
 ## Links
 
