@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    background-color: #e8f1eb;
+}
+
+.container {
+    background-color: #1f2937;
+    max-width: 23%;
+    width: 100%;
+    padding: 5rem 2rem;
+    border: 6px solid white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.185);
+}
+
+h1{
+    display: inline-block;
+    width: 80%;
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+
+.describe-app-p{
+    opacity: 60%;
+    font-size: 1.05em;
+    margin-bottom: 2rem;
+    font-weight: lighter;
+}
+
+span {
+    color: #4adf86;
+}
+
+.generated-passwords{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.144);
+}
+
+.password{
+    background-color: #273549;
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #4adf86;
+    font-size: .9em;
+}
+
+button{
+    background-color: #10b981;
+    color: white;
+    padding: .5rem;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+}
