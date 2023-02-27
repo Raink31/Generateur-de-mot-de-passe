@@ -12,11 +12,12 @@ body{
     align-items: center;
     font-family: 'Rubik', sans-serif;
     color: white;
-    background-color: #e8f1eb;
+    background-color: #FCF9EE;
+    text-align: center;
 }
 
 .container {
-    background-color: #1f2937;
+    background-color: #505168;
     max-width: 23%;
     width: 100%;
     padding: 5rem 2rem;
@@ -27,7 +28,7 @@ body{
 
 h1{
     display: inline-block;
-    width: 80%;
+    width: 90%;
     font-size: 2em;
     margin-bottom: 1rem;
 }
@@ -40,7 +41,7 @@ h1{
 }
 
 span {
-    color: #4adf86;
+    color: #FB4BA3;
 }
 
 .generated-passwords{
@@ -53,19 +54,19 @@ span {
 }
 
 .password{
-    background-color: #273549;
+    background-color: #3D3F51;
     height: 30px;
     width: 100%;
     border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #4adf86;
+    color: #FB4BA3;
     font-size: .9em;
 }
 
 button{
-    background-color: #10b981;
+    background-color: #FB4BA3;
     color: white;
     padding: .5rem;
     border: none;
