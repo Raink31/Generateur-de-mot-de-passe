@@ -7,7 +7,7 @@
 
 ## Links
 
-- URL: https://www.frontendmentor.io/solutions/order-summary-component-challenge-responsive-solution-html-and-css-xF3Glhu33u
+- URL: https://raink31.github.io/Generateur-de-mot-de-passe/
 
 ## Built with
 
